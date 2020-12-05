@@ -6,6 +6,8 @@ I have applied accessibility guidelines to the style.css which lacked defining d
 
 I have altered the previous existing code using header, footer, aside, and main classes to provide a better understanding and readability of the code. By applying these specific classes, even though not mandatory for producing a webpage, this has allowed me to also organize the style.css into what I believe is much cleaner code.
 
+![01-html-css-git-homework-demo](assets/images/01-html-css-git-homework-demo.png)
+
 # Tech/framework used
 Vscode
 
